@@ -22,7 +22,7 @@ const Input: React.FC<InputProps> = ({
   };
 
   return (
-    <View className="border-2 flex-row items-center justify-between border-white w-11/12 px-3 rounded-xl">
+    <View className="border-2 my-3 flex-row items-center justify-between border-white w-11/12 px-3 rounded-xl">
       <TextInput
         secureTextEntry={passwordType && isPasswordVisible}
         className="text-white font-semibold placeholder:text-white flex-1"
