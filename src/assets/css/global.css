@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root{
+    --primary-color: #dd1e1e;
+    --secondary-color: #000000;
+    --tertiary-color: #000000;
+    --quaternary-color: #000000;
+    --quinary-color: #000000;
+    --senary-color: #000000;
+    --septenary-color: #000000;
+    --octonary-color: #000000;
+    --nonary-color: #000000;
+    --decenary-color: #000000;
+    --undecenary-color: #000000;
+    --duodecenary-color: #000000;
+}
