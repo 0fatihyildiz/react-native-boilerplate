@@ -22,7 +22,7 @@ export default function App() {
 
   return (
     <View className="flex flex-col h-full items-center justify-around py-5 bg-black">
-      <Divider title="Ben Ferhat Geliyorum" />
+      <Divider title="Ben Ferhat Gidiyorum" />
       <View className="flex-row items-center justify-center">
         <Text className="text-white font-semibold text-2xl mr-2">App</Text>
         <Iconify icon="mdi:heart" size={24} color="#900" />
